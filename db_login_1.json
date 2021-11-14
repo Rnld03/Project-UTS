@@ -1,0 +1,56 @@
+[
+	{
+		"type":
+			"header",
+		"version":
+			"5.1.1",
+		"comment":
+			"Export to JSON plugin for PHPMyAdmin"},
+	{
+		"type":
+		"database",
+		"name":
+		"db_login_1"
+	},
+	{
+		"type":
+			"table",
+		"name":
+			"reset_password",
+		"database":
+			"db_login_1",
+		"data":[
+
+		]
+	}
+	,{"type":
+			"table",
+		"name":
+			"tb_users_1",
+		"database":
+			"db_login_1",
+		"data":
+		[
+			{
+				"id_user":
+					"1",
+				"username":
+					"prayogaea",
+				"email":
+					"prayogaea253@gmail.com",
+				"password":
+					"$2y$12$dIO36gtlsd1dVIXTLdWZ9eoCjB70V56m1EAn9WTQgXVlm2XI.JnvO"
+			},
+			{
+				"id_user":
+					"2",
+				"username":
+					"putriajeng",
+				"email":
+					"putriajeng2082@gmail.com",
+				"password":
+					"$2y$12$5L9jPsLVWmrvrom692RutOsypu5oPqRaXRVTqTVUCMXNv4MnGWR\/q"
+			}
+	]
+	}
+]
